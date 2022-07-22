@@ -1,8 +1,8 @@
-# owf-data-co-legislature-districts #
+# owf-data-co-legislative-districts #
 
 This repository contains [Open Water Foundation (OWF)](https://openwaterfoundation.org)
-dataset files for Colorado State legislature districts,
-based on [Colorado Independent Redistricting Commissions (CIRC)](https://redistricting.colorado.gov/content/senate-final-approved-errata) data.
+dataset files for Colorado State legislative districts,
+based on [Colorado Independent Redistricting Commissions (CIRC)](https://redistricting.colorado.gov) data.
 
 This repository contains the workflow to convert the CIRC data from zipped shapefiles to GeoJSON files.
 The dataset files are also published on
@@ -27,7 +27,7 @@ The repository contains the following:
       git-repos/
 ---------------- above folders are recommended --------------------
         owf-website-data/                   Repository that provides shared files to create dataset cloud landing page.
-        owf-data-co-legislature-districts/  This repository.
+        owf-data-co-legislative-districts/  This repository.
           .gitattributes                    Git configuration file indicate repository configuration,
                                             in particular handling of line-ending and binary files.
           .gitignore                        Git configuration file to ignore files that should not be committed to the repository.
@@ -49,7 +49,7 @@ The GeoJSON files can be used directly by GIS and web mapping applications.
 ## License ##
 
 The data from the State of Colorado are public.
-No restrictions are currently placed on the OWF dataset.
+No restrictions are currently placed on use of the dataset.
 Using attribution consistent with the following license is appreciated.
 
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)

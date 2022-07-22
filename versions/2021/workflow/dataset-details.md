@@ -12,14 +12,14 @@ The following files can be downloaded or used directly.
 
 | **Version** | **Layer File** | **Description** |
 | -- | -- | -- |
-| 2021 | [`co-state-house-districts-2021.geojson`](co-state-house-districts-2021.geojson) | Colorado House of Representatives Districts (2021). |
-| 2021 | [`co-state-senate-districts-2021.geojson`](co-state-senate-districts-2021.geojson) | Colorado Senate Districts (2021). |
-| 2011 | [`co-state-house-districts-2011.geojson`](co-state-house-districts-2011.geojson) | Colorado House of Representatives Districts (2011). |
-| 2011 | [`co-state-senate-districts-2011.geojson`](co-state-senate-districts-2011.geojson) | Colorado Senate Districts (2011). |
+| 2021 | [`co-state-house-districts-2021.geojson`](2021/co-state-house-districts-2021.geojson) | Colorado House of Representatives Districts (2021). |
+| 2021 | [`co-state-senate-districts-2021.geojson`](2021/co-state-senate-districts-2021.geojson) | Colorado Senate Districts (2021). |
+| 2011 | [`co-state-house-districts-2011.geojson`](2011/co-state-house-districts-2011.geojson) | Colorado House of Representatives Districts (2011). |
+| 2011 | [`co-state-senate-districts-2011.geojson`](2011/co-state-senate-districts-2011.geojson) | Colorado Senate Districts (2011). |
 
 ## Workflow ##
 
-See the [`owf-data-co-legislative-districts`](https://github.com/OpenWaterFoundation/owf-data-co-legislative-districts/blob/master/README.md)
+See the [`owf-data-co-legislative-districts`](https://github.com/OpenWaterFoundation/owf-data-co-legislative-districts)
 GitHub repository for information.
 
 ## Credits ##
@@ -30,7 +30,8 @@ GitHub repository for information.
 
 ## License ##
 
-The State of Colorado data are publid and freely available.
-The Open Water Foundation appreciations attribution, for example consistent with the following:
+The data from the State of Colorado are public.
+No restrictions are currently placed on use of the dataset.
+Using attribution consistent with the following license is appreciated.
 
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
