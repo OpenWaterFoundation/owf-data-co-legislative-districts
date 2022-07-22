@@ -44,9 +44,9 @@ The repository contains the following:
 
 ## How to Use the Data ##
 
-The GeoJSON files can be used directly by GIS and web mapping applications.
+The GeoJSON files in the `versions/*/data` folders can be used directly by GIS and web mapping applications.
 
-It is recommended to use the files served from the
+However, it is recommended to use the files served from the
 [Colorado Legislative Districts dataset](https://data.openwaterfoundation.org/state/co/circ/legislative-districts/) links.
 
 ## License ##
