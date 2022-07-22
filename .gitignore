@@ -28,3 +28,6 @@
 
 /versions/2021/downloads/*
 !/versions/2021/downloads/README.md
+
+/versions/2011/downloads/*
+!/versions/2011/downloads/README.md

@@ -1,0 +1,24 @@
+{
+  "title": "Colorado Legislature Districts",
+  "description": "Colorado House and Senate legislature districts.",
+  "identifier": "owf-data-co-legislature-districts",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/circ/legislative-districts/",
+  "issued": "2022-07-22",
+  "keyword": [
+    "polygon",
+    "legislative districts"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Legislative Districts"
+    }
+  ]
+}
