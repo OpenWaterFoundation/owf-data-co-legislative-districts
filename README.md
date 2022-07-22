@@ -21,15 +21,25 @@ The following sections provide a summary of the project repository:
 The repository contains the following:
 
 ```text
-.gitattributes         Git configuration file indicate repository configuration, in particular handling of line-ending and binary files.
-.gitignore             Git configuration file to ignore files that should not be committed to the repository.
-README.md              This file.
-versions/              Folders containing local copy of data versions, corresponding to data provider publishing dates.
-  2021/                Results of the 2021 redistricting.
-    data/              The data files for the dataset, output from the workflow.
-    downloads/         Downloaded files for the dataset, from the original source.
-    workflow/          Workflow files to process the dataset.
-  2011/                Results of the 2011 redistricting (manually processed).
+/C/Users/user/                              Windows user files.
+  owf-dev/                                  Open Water Foundation development files.
+    data.openwaterfoundation.org/
+      git-repos/
+---------------- above folders are recommended --------------------
+        owf-website-data/                   Repository that provides shared files to create dataset cloud landing page.
+        owf-data-co-legislature-districts/  This repository.
+          .gitattributes                    Git configuration file indicate repository configuration,
+                                            in particular handling of line-ending and binary files.
+          .gitignore                        Git configuration file to ignore files that should not be committed to the repository.
+          README.md                         This file.
+          versions/                         Folders containing local copy of data versions, corresponding to data provider publishing dates.
+            2021/                           Results of the 2021 redistricting.
+              data/                         The data files for the dataset, output from the workflow.
+              downloads/                    Downloaded files for the dataset, from the original source.
+              workflow/                     Workflow files to process the dataset.
+            2011/                           Results of the 2011 redistricting (manually processed).
+              data/                         The data files for the dataset, output from the workflow.
+              workflow/                     Workflow files to process the dataset.
 ```
 
 ## How to Use the Data ##
