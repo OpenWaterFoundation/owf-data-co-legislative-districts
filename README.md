@@ -46,6 +46,9 @@ The repository contains the following:
 
 The GeoJSON files can be used directly by GIS and web mapping applications.
 
+It is recommended to use the files served from the
+[Colorado Legislative Districts dataset](https://data.openwaterfoundation.org/state/co/circ/legislative-districts/) links.
+
 ## License ##
 
 The data from the State of Colorado are public.
