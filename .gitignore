@@ -26,8 +26,8 @@
 # Do commit README files that define the folder structure
 # so that new developers don't need to do that manually.
 
-/versions/2021/downloads/*
-!/versions/2021/downloads/README.md
+/versions/2021/workflow/downloads/*
+!/versions/2021/workflow/downloads/README.md
 
 /versions/2011/downloads/*
 !/versions/2011/downloads/README.md
