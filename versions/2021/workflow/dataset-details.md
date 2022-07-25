@@ -22,6 +22,11 @@ The following files can be downloaded or used directly.
 See the [`owf-data-co-legislative-districts`](https://github.com/OpenWaterFoundation/owf-data-co-legislative-districts)
 GitHub repository for information.
 
+## Update Frequency and Versions ##
+
+The dataset is updated approximately every 10 years when redistricting occurs.
+Versions are identified using the publication year.
+
 ## Credits ##
 
 * Original zipped shapefiles were downloaded and processed from the
