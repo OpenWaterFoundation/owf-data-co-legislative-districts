@@ -1,4 +1,4 @@
-StartLog(LogFile="02-upload-dataset-to-s3.tstool.log")
+StartLog(LogFile="results/02-upload-dataset-to-s3.tstool.log")
 # Upload the Colorado Legislative Districts dataset to the Open Water Foundation's
 # data.openwaterfoundation.org website.
 #
