@@ -8,14 +8,23 @@ The 2021 districts were developed by the
 
 ## Downloads ##
 
+### 2021 Redistricting ###
+
 The following files can be downloaded or used directly.
 
-| **Version** | **Layer File** | **Description** |
-| -- | -- | -- |
-| 2021 | [`co-state-house-districts-2021.geojson`](2021/co-state-house-districts-2021.geojson) | Colorado House of Representatives Districts (2021). |
-| 2021 | [`co-state-senate-districts-2021.geojson`](2021/co-state-senate-districts-2021.geojson) | Colorado Senate Districts (2021). |
-| 2011 | [`co-state-house-districts-2011.geojson`](2011/co-state-house-districts-2011.geojson) | Colorado House of Representatives Districts (2011). |
-| 2011 | [`co-state-senate-districts-2011.geojson`](2011/co-state-senate-districts-2011.geojson) | Colorado Senate Districts (2011). |
+| **Version** | **Layer File** | **Description** | **View** |
+| -- | -- | -- | -- |
+| 2021 | [`co-state-house-districts-2021.geojson`](2021/co-state-house-districts-2021.geojson) | Colorado House of Representatives Districts (2021). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/circ/legislative-districts/2021/co-state-house-districts-2021.geojson) |
+| 2021 | [`co-state-senate-districts-2021.geojson`](2021/co-state-senate-districts-2021.geojson) | Colorado Senate Districts (2021). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/circ/legislative-districts/2021/co-state-senate-districts-2021.geojson) |
+
+### 2011 Redistricting ###
+
+The following files can be downloaded or used directly.
+
+| **Version** | **Layer File** | **Description** | **View** |
+| -- | -- | -- | -- |
+| 2011 | [`co-state-house-districts-2011.geojson`](2011/co-state-house-districts-2011.geojson) | Colorado House of Representatives Districts (2011). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/circ/legislative-districts/2011/co-state-house-districts-2011.geojson) |
+| 2011 | [`co-state-senate-districts-2011.geojson`](2011/co-state-senate-districts-2011.geojson) | Colorado Senate Districts (2011). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/circ/legislative-districts/2011/co-state-senate-districts-2011.geojson) |
 
 ## Workflow ##
 
